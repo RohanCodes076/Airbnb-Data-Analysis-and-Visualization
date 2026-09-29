@@ -1,4 +1,4 @@
-# 🏠 Airbnb NYC Data Analytics Project
+# 🏠 Airbnb NYC Data Analytics and Visualization Project
 
 ## 📌 Project Overview
 
